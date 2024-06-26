@@ -1,0 +1,17 @@
+D:\ProiectFinalPOO\ProiectFinalPOO\bin\Debug\ProiectFinalPOO.exe.config
+D:\ProiectFinalPOO\ProiectFinalPOO\bin\Debug\ProiectFinalPOO.exe
+D:\ProiectFinalPOO\ProiectFinalPOO\bin\Debug\ProiectFinalPOO.pdb
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.csproj.AssemblyReference.cache
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.aboutForm.resources
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.MainMenuForm.resources
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.Properties.Resources.resources
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.csproj.GenerateResource.cache
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.csproj.CoreCompileInputs.cache
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.exe
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.pdb
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.accountForm.resources
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.loginForm.resources
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.FacturaForm.resources
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.storeForm.resources
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.Resource1.resources
+D:\ProiectFinalPOO\ProiectFinalPOO\obj\Debug\ProiectFinalPOO.viewStockForm.resources

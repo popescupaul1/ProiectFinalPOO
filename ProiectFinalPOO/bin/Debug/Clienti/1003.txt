@@ -1,0 +1,7 @@
+Nume: Paul
+Parola: 123
+Adresa: 123
+CIF: 123
+Banca: 123
+RegCom: 123
+Cont: 123

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produse>
+    <produs categorie="alimentar">
+        <cod>21553509</cod>
+        <denumire>Paine</denumire>
+        <descriere>Feliata 500g</descriere>
+        <pret>5.0</pret>
+        <stoc>20</stoc>
+        <producator>Mopan</producator>
+        <data_expirare>2024-12-31</data_expirare>
+    </produs>
+
+    <produs categorie="nealimentar">
+        <cod>33667300</cod>
+        <denumire>Mouse</denumire>
+        <descriere>Wireless</descriere>
+        <pret>175.0</pret>
+        <stoc>10</stoc>
+        <producator>Razer</producator>
+        <garantie>2 ani</garantie>
+    </produs>
+
+    <produs categorie="alimentar">
+        <cod>60645401</cod>
+        <denumire>Cartofi</denumire>
+        <descriere>2kg</descriere>
+        <pret>10.0</pret>
+        <stoc>15</stoc>
+        <producator>CartoFirm</producator>
+        <data_expirare>2024-12-31</data_expirare>
+    </produs>
+
+    <produs categorie="alimentar">
+        <cod>51155902</cod>
+        <denumire>Faina</denumire>
+        <descriere>1kg</descriere>
+        <pret>5.5</pret>
+        <stoc>35</stoc>
+        <producator>FainaBuna</producator>
+        <data_expirare>2024-11-01</data_expirare>
+    </produs>
+
+    <produs categorie="nealimentar">
+        <cod>84990204</cod>
+        <denumire>Televizor</denumire>
+        <descriere>110"</descriere>
+        <pret>2400.0</pret>
+        <stoc>21</stoc>
+        <producator>Samsung</producator>
+        <garantie>4 ani</garantie>
+    </produs>
+
+    <produs categorie="alimentar">
+        <cod>43638109</cod>
+        <denumire>Zmeura</denumire>
+        <descriere>500g</descriere>
+        <pret>19.9</pret>
+        <stoc>8</stoc>
+        <producator>ZmeuraBuna</producator>
+        <data_expirare>2024-09-31</data_expirare>
+    </produs>
+</produse>

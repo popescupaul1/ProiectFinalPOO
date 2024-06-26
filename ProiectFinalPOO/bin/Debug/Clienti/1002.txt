@@ -1,0 +1,7 @@
+Nume: John Doe
+Parola: 123
+Adresa: Somewhere, Ohio
+CIF: 5465634535
+Banca: Bank34643523
+RegCom: 534534534634
+Cont: Account2353254

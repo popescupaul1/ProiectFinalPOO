@@ -1,0 +1,7 @@
+Nume: da
+Parola: da
+Adresa: da
+CIF: da
+Banca: da
+RegCom: da
+Cont: da
